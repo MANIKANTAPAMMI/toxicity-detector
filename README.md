@@ -17,6 +17,9 @@ The dataset has been trained from Kaggle and mentioned as ml_data. Dataset was r
 Gradio:
 The GUI  interface to get output.
 
+Dataset :
+      https://www.kaggle.com/datasets/julian3833/jigsaw-unintended-bias-in-toxicity-classification
+
 Proposed methodology:
 
 
